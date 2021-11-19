@@ -4,7 +4,7 @@
 
 int congruencia(int a,int k, int d);
 int main() {
-	system("color 40");
+	system("color 47");
 	int anio, febrero;
 	int opcion=1, dias_mes, dia=1, mes=1;
   
