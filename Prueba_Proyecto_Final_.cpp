@@ -142,3 +142,8 @@ if (opcion == 1)
 		scanf("%d",&anio);
 		system("cls");
 		printf("\t\t\t--------------------CALENDARIO--------------------\n\n");
+	
+		}
+	}
+return 0; 
+}
